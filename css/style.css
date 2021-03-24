@@ -96,13 +96,48 @@ nav ul li{
 /*==========================================================
     5. Changing
 ===========================================================*/
-#changing{
+/* Index
+-------------------------------- */
+.changing{
   position: relative;
   margin: auto;
   width: 1000px;
   height: 300px;
   background:white; 
 }
+
+#changingIndex ul li{
+  float: left;
+  width: 330px;
+  height: 300px;
+}
+
+#changingIndex ul li h1{
+  margin: 24px 27px;
+  font-weight: 100;
+  font-size: 25px;
+}
+
+#changingIndex ul li p{
+  margin: 24px 28px;
+  font-size: 16px;
+}
+
+#changingIndex ul li img{
+  margin: -5px 33px;
+  width: 273px;
+  height: 83px;
+  background: silver;
+}
+
+/* Contactenos
+-------------------------------- */
+
+/* Quienes Somos
+-------------------------------- */
+
+/* Servicios
+-------------------------------- */
 /*==========================================================
     6. Bottom
 ===========================================================*/
