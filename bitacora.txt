@@ -1,1 +1,6 @@
-Se modifica sl archivo style y contactenos para el respectivo dideño
+Se finaliza el proyecto, esto proyecto se hace a partir del curso Curso de maquetación web de lo básico a lo 
+avanzado en el link https://www.udemy.com/course/curso-de-diseno-y-maquetacion-web-de-cero-a-experto/.
+
+Una vez se tomo el curso reinicie el proyecto desde 0 para aplicar lo aprendido. Cabe destacar que es 
+maquetación estatica y no responsiva, se hace ya que es para adquirir habilidades tanto en HTML como en CSS 
+ya que estoy empezando a incursionar como desarrollador
